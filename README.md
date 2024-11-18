@@ -60,13 +60,9 @@ Make sure you have the following installed:
 Steps
 Clone the repository:
 
-      git clone https://github.com/your-username/david-chuschina-bistro.git
+      git clone https://github.com/ManojTS95/ManojTS95.github.io.git
 
-Navigate to the project directory:
-
-          cd david-chuschina-bistro
-
-Open the index.html file in your browser or launch a live server from your editor.
+Open the index(1).html file in your browser or launch a live server from your editor.
 
 # Screenshots
 
